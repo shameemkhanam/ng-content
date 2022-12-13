@@ -1,0 +1,15 @@
+.container {
+  padding: 20px 30px;
+  background-color: antiquewhite;
+}
+.more_products {
+  display: flex;
+}
+.btn_more {
+  min-width: 160px;
+  margin-top: 10px;
+  padding: 10px 0px;
+  background-color: green;
+  border: none;
+  color: white;
+}
